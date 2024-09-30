@@ -1,0 +1,35 @@
+body {background-color:rgb(245, 153, 245);}
+
+img {
+    margin-left: 24%;
+}
+
+.p1{
+    text-align: center;
+    font-size: 150%;
+    color: blueviolet;
+    border: 10px solid transparent;
+    font-size: 40px;
+    background-color: rgb(150, 215, 255);
+}
+
+.p2{
+    text-align: center;
+    font-size: 120%;
+    color: rgb(3, 153, 140);
+    border-style: double;
+    border-color: rgb(1, 202, 185);
+    border-width: 6px;
+}
+
+.p3{
+    text-align: center;
+    font-size: 120%;
+    color: blueviolet;
+}
+
+.p4{
+    text-align: center;
+    font-size: 120%;
+    color: rgb(2, 167, 153);
+}
